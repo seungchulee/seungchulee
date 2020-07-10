@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on mathpresso (go to : http://mathpresso.com/)
+- 🌱 I’m currently learning swift (maybe js?)
+- 📫 How to reach me : inthetelevision@gmail.com
 <!--
 **seungchulee/seungchulee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
