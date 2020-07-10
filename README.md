@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on mathpresso
+- 🔭 I’m currently working on mathpresso (go to : http://mathpresso.com/)
 <!--
 **seungchulee/seungchulee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
