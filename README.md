@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seungchulee&count_private=true&show_icons=true&theme=dracula) 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seungchulee&count_private=true&show_icons=true&theme=dracula&hide=contribs,issues) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungchulee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
